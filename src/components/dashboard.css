@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;600;700&display=swap");
+body {
+  color: white;
+  background-color: rgb(199, 168, 249);
+  /*background-color: black;*/
+  font-family: "Nunito", sans-serif;
+  border: 4px solid black;
+  background-image: url("https://interns.pk/wp-content/uploads/2020/02/bg-8-scaled.jpg");
+  max-width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Widget-Wrap {
+  background: #0e3027;
+  border: 5px solid black;
+  /*background: #2a2a2a;*/
+}
+.Widget-Title {
+  /* border-bottom: 4px solid #665151; */
+  border-bottom: 4px solid #f47a7a;
+  text-align: center;
+  /* text-align: left; */
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 10px 10px;
+}
+.Widget-Value .value {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  /* text-align: left; */
+  /* padding: 0px 7px; */
+  line-height: 100%;
+  width: auto;
+  height: auto;
+}
+.description {
+  text-align: left;
+  font-size: 12px;
+  padding-left: 13px;
+}
+.Widget-Value {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: auto;
+  height: auto;
+}
+text {
+  fill: white;
+}
+.Widget-Title {
+  /* color: #b6b6e3; */
+  color: rgb(255, 172, 5);
+  /* color: #4cff05; */
+  font-size: 19px;
+}
+.value {
+  color: yellow;
+}
+.Widget-Value {
+  /* display: flex;
+  align-items: flex-end; */
+  display: block;
+  height: 125px;
+  padding-left: 7px;
+}
+.Widget-Wrap {
+  height: 182px;
+  margin-bottom: 19px;
+}
+.Dropdown-root {
+  font-size: 18px;
+  width: 150px;
+  float: right;
+  /* display: block; */
+}
+.TopHeader.row {
+  /* background: #2a2a2a; */
+  background: #0e3027;
+  text-align: left;
+  border: 2px solid black;
+  margin-bottom: 19px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 40px;
+  padding: 10px 65px;
+  margin-bottom: 10px;
+}
