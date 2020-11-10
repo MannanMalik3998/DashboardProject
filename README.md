@@ -1,2 +1,2 @@
 # DashboardProject
-This was the final project of interns.pk spark program.  This project has multiple components. It includes: - Using Bootstrap with ReactJS - Fetching Data via fetch() method / API - Using fusion charts - Custom Packages use - Building custom widgets.
+This was the final project of interns.pk spark program.  <br>This project has multiple components.<br> It includes:<br> - Using Bootstrap with ReactJS <br>- Fetching Data via fetch() method / API<br> - Using fusion charts<br> - Custom Packages use - Building custom widgets.
